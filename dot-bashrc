@@ -118,6 +118,4 @@ fi
 
 test -s ~/.alias && . ~/.alias || true
 
-export PATH="/var/lib/flatpak/exports/share:$HOME/.local/share/flatpak/exports/share:$PATH"
-
 . /etc/profile

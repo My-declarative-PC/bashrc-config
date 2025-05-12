@@ -118,4 +118,4 @@ fi
 
 test -s ~/.alias && . ~/.alias || true
 
-. /etc/profile
+. ~/.profile
